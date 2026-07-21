@@ -1,3 +1,3 @@
 # frogicup
 
-Hello, my name is Lydia! 
+Hi I'm a high schooler who codes sometimes.
